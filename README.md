@@ -1,2 +1,2 @@
 # TicTacToe
-A command-line TicTacToe game where the player plays against an unbeatable AI
+A TicTacToe game where the player plays against an unbeatable AI
